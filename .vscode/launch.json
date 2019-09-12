@@ -2,6 +2,17 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Microsoft cloud sandbox",
+            "type": "al",
+            "request": "launch",
+            "startupObjectId": 22,
+            "breakOnError": true,
+            "breakOnRecordWrite": false,
+            "launchBrowser": true,
+            "sandboxName": "Sandbox3",
+            "schemaUpdateMode":"ForceSync"
+        },
+        {
             "type": "al",
             "request": "launch",
             "name": "Your own server",

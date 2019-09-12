@@ -2,7 +2,7 @@
   "id": "416d14d8-4357-4503-9b47-4d45bd106df5",
   "name": "PTCustom",
   "publisher": "iAX",
-  "version": "1.0.0.1",
+  "version": "1.0.0.10",
   "brief": "",
   "description": "Premium Tobacco Customization",
   "privacyStatement": "",
@@ -12,8 +12,8 @@
   "logo": "",
   "dependencies": [],
   "screenshots": [],
-  "platform": "14.0.0.0",
-  "application": "14.0.0.0",
+  "platform": "14.4.0.0",
+  "application": "14.4.35602.0",
   "idRanges": [
     {
       "from": 50000,

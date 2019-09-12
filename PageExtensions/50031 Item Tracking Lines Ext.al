@@ -7,6 +7,7 @@ pageextension 50031 "Item Tracking Lines Ext" extends "Item Tracking Lines"
             field("Origin"; "Origin")
             {
                 ApplicationArea = all;
+                //Editable = "ExpirationDateEditable";
             }
             field("Crop Year"; "Crop Year")
             {
